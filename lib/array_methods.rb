@@ -1,10 +1,9 @@
 def using_include(array, element)
-array.include?
-(element)
+
 end
 
 def using_sort(array)
-.short
+  
 end
 
 def using_reverse(array)
